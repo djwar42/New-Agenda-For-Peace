@@ -128,7 +128,7 @@ export default function PrinciplesSection() {
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ duration: 0.5, delay: 0.3 }}
-        className='text-lg mb-6'
+        className='text-lg mb-6 mt-16'
       >
         Trust is vital as <b>30% more protests erupted in 2021</b> (
         <a href='https://carnegieendowment.org/2022/02/15/global-protest-tracker-pub-86335'>

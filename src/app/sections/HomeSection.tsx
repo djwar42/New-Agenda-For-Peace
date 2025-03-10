@@ -37,17 +37,20 @@ export default function HomeSection() {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 0.5, delay: 0.2 }}
-          className='text-2xl md:text-3xl max-w-5xl mx-auto mb-12'
+          className='text-xl md:text-1xl max-w-5xl mx-auto mb-12'
         >
           Unveiled on 20 July 2023 by UN Secretary-General António Guterres,
           this transformative policy brief presents a comprehensive strategy to
           bolster multilateral efforts for peace. Stemming from{' '}
           <i>Our Common Agenda</i> and the 75th anniversary declaration, it
           confronts a world marked by geopolitical shifts, escalating tensions,
-          and climate crises. It calls for renewed global cooperation to address
-          these intertwined challenges, emphasizing the urgency of collective
-          action to fulfill the UN Charter’s promise of peace, sustainable
-          development, and human rights for all.
+          and climate crises. It calls for renewed global cooperation, uniting
+          the United Nations with NATO, regional organizations, and other
+          international bodies in a group effort to address these intertwined
+          challenges. Emphasizing the urgency of collective action, this agenda
+          promotes NATO’s role in enhancing security frameworks alongside UN
+          peacekeeping. Together, they strive to fulfill the UN Charter’s
+          promise of peace, sustainable development, and human rights for all.
         </motion.p>
         <motion.div
           whileHover={{ scale: 1.1 }}

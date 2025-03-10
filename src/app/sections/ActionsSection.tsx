@@ -122,7 +122,7 @@ export default function ActionsSection() {
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ duration: 0.5, delay: 0.3 }}
-        className='text-lg mb-6'
+        className='text-lg mb-6 mt-16'
       >
         Other actions include accelerating the 2030 Agenda with social
         protections like universal basic incomes in post-conflict areas,
