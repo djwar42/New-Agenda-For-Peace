@@ -16,6 +16,7 @@ export default function RootLayout({
     <html lang='en'>
       <head>
         <link rel='icon' href='/favicon.svg' type='image/svg+xml' />
+        <title>A New Agenda for Peace</title>
       </head>
       <body className={inter.className}>
         <nav className='fixed top-0 w-screen bg-[#009EDB] text-white p-6 shadow-lg flex items-center z-20'>
