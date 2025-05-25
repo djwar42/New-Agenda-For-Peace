@@ -40,7 +40,7 @@ export default function RootLayout({
           <p className='text-lg'>
             A New Agenda for Peace | Website by{' '}
             <a target='_BLANK' href='https://github.com/djwar42'>
-              Daniel Warner
+              Daniel Joel Warner
             </a>
           </p>
         </footer>
